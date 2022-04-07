@@ -17,9 +17,10 @@ let keyPresses = {};
 let currentDirection = FACING_DOWN;
 let currentLoopIndex = 0;
 let frameCount = 0;
-let positionX = 0;
-let positionY = 0;
+let positionX = 160;
+let positionY = 160;
 let img = new Image();
+
 
 window.addEventListener('keydown', keyDownListener);
 function keyDownListener(event) {
