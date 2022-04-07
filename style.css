@@ -19,12 +19,11 @@
                 overflow: hidden;
                 width: 100%;
             }
-
-            .footer
-            {
+            
+            .footer {
                 height: 20%;
             }
-
+            
             footer {
                 background: #42A5F5;
                 color: white;
@@ -32,9 +31,8 @@
                 padding: 0 20px;
                 position: absolute;
                 bottom: 0;
-                width: 85%;
-                
-              }
+                width: 100%;
+            }
             /* Other elements */
             
             #mainmenu {
@@ -48,7 +46,7 @@
             
             canvas {
                 border: 1px solid black;
-                margin: 80% 5px;
+                margin: 0 5px;
             }
             /*Scaling webpage */
             
