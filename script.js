@@ -94,4 +94,4 @@ function moveCharacter(deltaX, deltaY, direction) {
     positionY += deltaY;
   }
   currentDirection = direction;
-}
+} 
